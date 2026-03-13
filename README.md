@@ -1,2 +1,5 @@
 # TOPICOS AVANZADOS DE PROGRAMACION 
-# INGENIERIA EN SISTEMAS COMPUTACIONALES 
+# Ingenieria en sistemas computacionales 
+Nombre: Cristian Tejada Pérez
+Matricula: 24ISICM008
+Proposito: Creado para poder subir mis actividades de clase 
